@@ -18,9 +18,9 @@ export default function ResumenCitasPage() {
             <Mic className="h-5 w-5" />
             Grabación de Audio
           </CardTitle>
-          <CardDescription>
-            Graba la conversación durante la consulta médica para generar un resumen automático
-          </CardDescription>
+        <CardDescription>
+          Graba la conversación durante la consulta médica para generar un resumen automático con IA
+        </CardDescription>
         </CardHeader>
         <CardContent>
           <div className="flex gap-4">
