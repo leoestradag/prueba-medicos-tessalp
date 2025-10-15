@@ -55,7 +55,7 @@ export default function ResumenCitasPage() {
     <div className="space-y-6">
       <div>
         <h1 className="text-3xl font-bold">Resumen Citas</h1>
-        <p className="text-muted-foreground">Grabación y transcripción de consultas médicas</p>
+        <p className="text-muted-foreground">Grabación y transcripción de consultas médicas - Deploy v2.0</p>
       </div>
 
       <Card>
